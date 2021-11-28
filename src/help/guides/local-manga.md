@@ -58,7 +58,7 @@ Tachiyomi requires a specific folder structure for local manga to be correctly p
 								<span class="ft-icon ft-image">images</span>
 							</ul>
 						</li>
-						<span class="ft-icon ft-image">cover.jpg</span>
+						<span class="ft-icon ft-image">cover.png</span>
 					</ul>
 				</li>
 				<li>...</li>
@@ -132,7 +132,7 @@ Archive files such as `ZIP`/`CBZ` are supported but the folder structure inside 
 								</li>
 							</ul>
 						</li>
-						<span class="ft-icon ft-image">cover.jpg</span>
+						<span class="ft-icon ft-image">cover.png</span>
 					</ul>
 				</li>
 				<li>...</li>
@@ -168,5 +168,5 @@ You can copy the following example and edit the details as needed:
 It is also possible to use a custom image as a cover for each local manga.
 
 To do this, you only need to place the image file, that needs to be named
-`cover.jpg`, in the root of the manga folder. The app will then use your
+`cover.png`, in the root of the manga folder. The app will then use your
 custom image in the local source listing.
